@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1079"
+   name=""
+   committed-date="2007-06-26T04:24:14.968750Z"
+   url="svn://liono/xivbank/branches/Matador/MsSqlVersion/iSCMS/PopCalendar2005/CSS/Modern_Images"
+   last-author="matiur"
+   kind="dir"
+   uuid="90fbbf9e-978d-0a4e-8c6a-a94f62485465"
+   repos="svn://liono/xivbank"
+   revision="1651"/>
+<entry
+   committed-rev="1079"
+   name="left1.gif"
+   text-time="2007-12-29T22:24:43.046875Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="d74cbd70dfd49be4658b629652db119f"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:42.796875Z"/>
+<entry
+   committed-rev="1079"
+   name="baddatex.gif"
+   text-time="2007-12-29T22:24:43.046875Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="69e8cf56996d13ed1c6d877e921f1d06"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:42.812500Z"/>
+<entry
+   committed-rev="1079"
+   name="left2.gif"
+   text-time="2007-12-29T22:24:43.046875Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="8acb9d679fb0c47323cf5a16b2721c49"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:42.843750Z"/>
+<entry
+   committed-rev="1079"
+   name="closedown.gif"
+   text-time="2007-12-29T22:24:43.062500Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="3a5bb38ee3f5e60cb8f8af0fbee6ad9a"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:42.859375Z"/>
+<entry
+   committed-rev="1079"
+   name="right1.gif"
+   text-time="2007-12-29T22:24:43.062500Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="3b81a1c470f54dc33cc31e2654f7c65f"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:42.875000Z"/>
+<entry
+   committed-rev="1079"
+   name="right2.gif"
+   text-time="2007-12-29T22:24:43.062500Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="1d63c4e51f674496c29d360811c713d3"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:42.890625Z"/>
+<entry
+   committed-rev="1079"
+   name="special.gif"
+   text-time="2007-12-29T22:24:43.062500Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="be65b26f2552a78eb6395c4f4c76f53d"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:42.906250Z"/>
+<entry
+   committed-rev="1079"
+   name="baddate.gif"
+   text-time="2007-12-29T22:24:43.078125Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="3cd65bbd1bf41eabeabc61257f505acc"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:42.921875Z"/>
+<entry
+   committed-rev="1079"
+   name="up.gif"
+   text-time="2007-12-29T22:24:43.078125Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="561d955c7955cba949e2a8e18e4000f2"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:42.953125Z"/>
+<entry
+   committed-rev="1079"
+   name="close.gif"
+   text-time="2007-12-29T22:24:43.078125Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="1165821d29093fd6250e5e8adba493fa"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:42.968750Z"/>
+<entry
+   committed-rev="1079"
+   name="drop1.gif"
+   text-time="2007-12-29T22:24:43.078125Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="992df6858f7c2e581ca0758dddfb24a9"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:42.984375Z"/>
+<entry
+   committed-rev="1079"
+   name="drop2.gif"
+   text-time="2007-12-29T22:24:43.093750Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="533b5cad076626430b90254861d861e7"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:43.015625Z"/>
+<entry
+   committed-rev="1079"
+   name="down.gif"
+   text-time="2007-12-29T22:24:43.093750Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="527d297a26f7ce79f3880adf263d5bd4"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:43.015625Z"/>
+</wc-entries>

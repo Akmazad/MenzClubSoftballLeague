@@ -1,0 +1,12 @@
+E:\Project 13\MensClubSoftBall\MensClubSoftBall\bin\MensClubSoftBall.dll
+E:\Project 13\MensClubSoftBall\MensClubSoftBall\bin\MensClubSoftBall.pdb
+E:\Project 13\MensClubSoftBall\MensClubSoftBall\bin\MensClubSoftBall.xml
+E:\Project 13\MensClubSoftBall\MensClubSoftBall\obj\Debug\ResolveAssemblyReference.cache
+E:\Project 13\MensClubSoftBall\MensClubSoftBall\obj\Debug\MensClubSoftBall.Resources.resources
+E:\Project 13\MensClubSoftBall\MensClubSoftBall\obj\Debug\MensClubSoftBall.vbproj.GenerateResource.Cache
+E:\Project 13\MensClubSoftBall\MensClubSoftBall\obj\Debug\MensClubSoftBall.dll
+E:\Project 13\MensClubSoftBall\MensClubSoftBall\obj\Debug\MensClubSoftBall.xml
+E:\Project 13\MensClubSoftBall\MensClubSoftBall\obj\Debug\MensClubSoftBall.pdb
+E:\Az\azad from office\main projects\Project 13\MensClubSoftBall\MensClubSoftBall\obj\Debug\ResolveAssemblyReference.cache
+E:\Az\azad from office\main projects\Project 13\MensClubSoftBall\MensClubSoftBall\obj\Debug\MensClubSoftBall.vbproj.GenerateResource.Cache
+C:\Users\Az\Google Drive\Docz\Az (from E)\azad from office\main projects\CBY-MCSB [MensClubSoftBall]\MensClubSoftBall\MensClubSoftBall\obj\Debug\MensClubSoftBall.vbprojResolveAssemblyReference.cache

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1079"
+   name=""
+   committed-date="2007-06-26T04:24:14.968750Z"
+   url="svn://liono/xivbank/branches/Matador/MsSqlVersion/iSCMS/PopCalendar2005/CSS/Small_Images"
+   last-author="matiur"
+   kind="dir"
+   uuid="90fbbf9e-978d-0a4e-8c6a-a94f62485465"
+   repos="svn://liono/xivbank"
+   revision="1651"/>
+<entry
+   committed-rev="1079"
+   name="left1.gif"
+   text-time="2007-12-29T22:24:43.375000Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="251defc81db39b53ece34a78780d6108"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:43.187500Z"/>
+<entry
+   committed-rev="1079"
+   name="left2.gif"
+   text-time="2007-12-29T22:24:43.375000Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="dfb8b1975d3d3e0950834e202aa59e3f"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:43.203125Z"/>
+<entry
+   committed-rev="1079"
+   name="closedown.gif"
+   text-time="2007-12-29T22:24:43.375000Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="3a5bb38ee3f5e60cb8f8af0fbee6ad9a"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:43.218750Z"/>
+<entry
+   committed-rev="1079"
+   name="right1.gif"
+   text-time="2007-12-29T22:24:43.390625Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="33f52efb046451f553d81b01b29c24fe"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:43.234375Z"/>
+<entry
+   committed-rev="1079"
+   name="right2.gif"
+   text-time="2007-12-29T22:24:43.390625Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="49034bf7f87449c2c69353e601575698"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:43.250000Z"/>
+<entry
+   committed-rev="1079"
+   name="special.gif"
+   text-time="2007-12-29T22:24:43.390625Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="be65b26f2552a78eb6395c4f4c76f53d"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:43.265625Z"/>
+<entry
+   committed-rev="1079"
+   name="baddate.gif"
+   text-time="2007-12-29T22:24:43.390625Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="3cd65bbd1bf41eabeabc61257f505acc"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:43.281250Z"/>
+<entry
+   committed-rev="1079"
+   name="up.gif"
+   text-time="2007-12-29T22:24:43.406250Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="561d955c7955cba949e2a8e18e4000f2"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:43.296875Z"/>
+<entry
+   committed-rev="1079"
+   name="close.gif"
+   text-time="2007-12-29T22:24:43.406250Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="1165821d29093fd6250e5e8adba493fa"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:43.312500Z"/>
+<entry
+   committed-rev="1079"
+   name="drop1.gif"
+   text-time="2007-12-29T22:24:43.406250Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="fef34c8ad45d67f0e70af4bbe70c63c1"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:43.328125Z"/>
+<entry
+   committed-rev="1079"
+   name="drop2.gif"
+   text-time="2007-12-29T22:24:43.421875Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="2cac7fec92f93ad2cd64c8b8f763287e"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:43.328125Z"/>
+<entry
+   committed-rev="1079"
+   name="down.gif"
+   text-time="2007-12-29T22:24:43.421875Z"
+   committed-date="2007-06-26T04:24:14.968750Z"
+   checksum="527d297a26f7ce79f3880adf263d5bd4"
+   last-author="matiur"
+   kind="file"
+   prop-time="2007-12-29T22:24:43.343750Z"/>
+</wc-entries>
