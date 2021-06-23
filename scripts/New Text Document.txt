@@ -1,7 +1,0 @@
-schedule gula dekhar jonno ekta alada page diba
-fromdate and todate thakbe
-button e click korle 1 ta grid e dekhabe
-non editable grid
-aita tumi dao.vb file use kore korba
-query kore dataset fill kore grid er datasource dhorie dibe
-dal,bll, use korar dorkar nai
